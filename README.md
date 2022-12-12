@@ -5,6 +5,8 @@ Junior QA engineer
 
 Last actions 
 
+Examples of work in the learning process - https://github.com/Maxipavel/Examples_of_my_projects 
+
 Certificates
 
 1) Yandex.Practicum QA engineer
