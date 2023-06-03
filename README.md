@@ -5,7 +5,7 @@ Junior QA engineer
 
 Last actions 
 
-Examples of work in the learning process - https://github.com/Maxipavel/Examples_of_my_projects 
+Examples of work in the learning process - https://github.com/Maxipavel/Examples_of_my_projects /n
 Автоматизация проверки цикла выбора товара и последующего его заказа на сайте funmill.ru - https://github.com/Maxipavel/funmill_shop
 
 Certificates
