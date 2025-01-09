@@ -1,7 +1,7 @@
 
 About
 
-Junior QA engineer
+QA engineer
 
 Last actions 
 
